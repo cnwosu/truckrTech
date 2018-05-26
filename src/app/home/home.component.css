@@ -1,0 +1,41 @@
+/* body {
+   background-image: url("banner1.jpg");
+   height: 781px;
+   background-color: #000;
+   opacity: 1.0;
+   border: none;
+   margin: 0;
+   padding: 0;
+} */
+/* .carousel-item {
+    position: relative;
+    display: inline;
+    -ms-flex-align: center;
+    align-items: center;
+} */
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: -webkit-left;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+}
+#nav-bar-content{
+    font-size: 1rem;
+    font-weight: 1000;
+    line-height: 10;
+    color: white;
+    text-align: left;
+}
